@@ -1,0 +1,5 @@
+Ultrasound	KEYWORD1SoftwareSinglebus		KEYWORD1Ultrasound			KEYWORD2
+modifyAddr			KEYWORD2stop			KEYWORD2
+start			KEYWORD2readDistance		KEYWORD2
+setCB			KEYWORD2
+addr			KEYWORD2
